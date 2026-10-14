@@ -20,7 +20,7 @@ I am passionate about building **human-centered engineering systems** that bridg
 
 ---
 
-### 🛠️ Technical Toolbox
+###  Technical Toolbox
 
 * **Embedded & Hardware:** Arduino (ATmega328P / ESP32), MaixPy Edge AI, Embedded C/C++, Multi-Sensor Fusion (Ultrasonic, IR, LDR), PWM Motor & Servo Control, UART / Two-Wire Serial (`TM1637`), Tinkercad
 * **Signal Processing & Algorithms:** Non-Blocking Concurrency, Moving Average Filtering, Leaky Integrator Dynamic Calibration, Multi-Frame Temporal Voting, Switch Debouncing
