@@ -35,7 +35,7 @@ I am passionate about building **human-centered engineering systems** that bridg
   Designed and prototyped a lightweight (<150 g) assistive navigation module featuring forward ultrasonic ranging ($N=5$ moving average filter), downward IR drop-off detection ($\alpha=0.99$ leaky integrator adaptive baseline), and dual progressive haptic/acoustic feedback with $<100\text{ ms}$ system latency.  
    **[ Read Full Research Paper (PDF)](https://github.com/Jarredli/CaneVision_Smart_White_Cane_for_the_Visually_Impaired/raw/main/Jingkun_Li_Jarred_CaneVision_Research_Final_Paper.pdf)** | **[ Watch Live Demo](https://youtube.com/shorts/EYo3PqKyFFs?feature=share)**
 
-*  **[Edge-AI Assistive Medicine Recognition System](https://github.com/Jarredli/EdgeAI-Assistive-Medicine-Detector)**  
+*  **[MediGuide: Edge-AI Assistive Medicine Recognition System](https://github.com/Jarredli/EdgeAI-Assistive-Medicine-Detector)**  
   *Python | MaixPy Edge AI | PaddleOCR (PP-OCR) | UART Hardware Interfacing*  
   Developed an embedded computer vision system for visually impaired medication safety. Engineered a 4-stage post-OCR glyph/phonetic error-correction pipeline (`difflib` sequence matching), a 3-frame temporal consensus voting filter, and real-time `UART2` serial telemetry (`9600 baud`).
 
